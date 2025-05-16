@@ -24,3 +24,7 @@ Running RabbitMQ:
 
 Sending and Processing event locally:
 <img width="886" alt="image" src="https://github.com/user-attachments/assets/7d34e4f3-5fd8-4da5-8971-95496db21db3" />
+
+How the spikes got to do with running the publisher:
+The spikes are a visual representation of your publisher sending messages to RabbitMQ. No spikes means no messages being published at that moment. Each spikes mean a burst of messages being published (like when you run our publisher). If we were to run the publisher repeatedly or have it send messages continuously, we would see more frequent or sustained spikes in the graph.
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/d932c762-02c7-4789-8abb-8a8380886e7a" />
