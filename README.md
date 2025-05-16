@@ -21,3 +21,6 @@
 
 Running RabbitMQ:
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/695e722d-84a3-4143-9abd-3ae7ef8e8371" />
+
+Sending and Processing event locally:
+<img width="886" alt="image" src="https://github.com/user-attachments/assets/7d34e4f3-5fd8-4da5-8971-95496db21db3" />
