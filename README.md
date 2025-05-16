@@ -18,3 +18,6 @@
     - localhost means the AMQP broker (like RabbitMQ) is running on the same machine as your application
     - 5672 is the default port number for AMQP
     - If we were connecting to a remote message broker, we would replace localhost with the actual server address
+
+Running RabbitMQ:
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/695e722d-84a3-4143-9abd-3ae7ef8e8371" />
